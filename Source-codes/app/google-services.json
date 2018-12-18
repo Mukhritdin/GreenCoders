@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1006254191547",
+    "firebase_url": "https://pixelon-4c765.firebaseio.com",
+    "project_id": "pixelon-4c765",
+    "storage_bucket": "pixelon-4c765.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006254191547:android:36af9cedfc81c5ca",
+        "android_client_info": {
+          "package_name": "com.example.mukhritdinegamberdiev.pixelon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006254191547-go1vbip4ulvhs42upvmsff5i9dbv9a8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mukhritdinegamberdiev.pixelon",
+            "certificate_hash": "bccd83d61e695152bffd29cdb6f6846c7e7fa33b"
+          }
+        },
+        {
+          "client_id": "1006254191547-qoqv61qua4nu4qjn3gt0kn5emsug9qge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb3McSl3BnWkUPGa3kAFY4deU73tpdl0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006254191547-qoqv61qua4nu4qjn3gt0kn5emsug9qge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

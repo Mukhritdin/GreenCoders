@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">PixelOn</string>
+
+    <string name="edit_profile">Edit Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="profile_fragment">Profile</string>
+    <string name="confirm_password_dialog">ConfirmPasswordDialog</string>
+
+    <!-- Firebase Messages -->
+    <string name="auth_failed">Failed to Log In</string>
+    <string name="auth_success">Log In Successful</string>
+
+    <!-- Firebase database fields -->
+    <string name="dbname_users">users</string>
+    <string name="dbname_user_account_settings">user_account_settings</string>
+
+    <string name="calling_activity">calling_activity</string>
+
+    <!-- activity names -->
+    <string name="profile_activity">Profile Activity</string>
+
+    <string name="field_username">username</string>
+    <string name="field_email">eamil</string>
+    <string name="field_display_name">display_name</string>
+    <string name="field_description">description</string>
+    <string name="field_website">website</string>
+    <string name="field_phone_number">phoneNumber</string>
+    <string name="gallery">GALLERY</string>
+    <string name="photo">PHOTO</string>
+    <string name="string_open_camera">Camera</string>
+    <string name="string_next">Next</string>
+    <string name="selected_image">selected_image</string>
+    <string name="string_share">Share</string>
+
+    <string name="dbname_photos">photos</string>
+    <string name="dbname_user_photos">user_photos</string>
+
+    <string name="new_photo">new photo</string>
+    <string name="profile_photo">user_photos</string>
+
+    <string name="return_to_fragment">return_to_fragment</string>
+
+    <string name="selected_bitmap">selected_bitmap</string>
+    <string name="activity_number">activity_number</string>
+    <string name="view_post_fragment">View Post</string>
+
+    <string name="field_user_id">user_id</string>
+
+    <string name="home_activity">Home Activity</string>
+
+    <string name="intent_user">intent_user</string>
+
+    <string name="field_likes">likes</string>
+
+
+
+</resources>
